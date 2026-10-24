@@ -5,16 +5,19 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/pradeepguptha/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/pradeepguptha/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pradeepguptha/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/pradeepguptha/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/pradeepguptha/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pradeepguptha/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/pradeepguptha/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/pradeepguptha/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pradeepguptha/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
