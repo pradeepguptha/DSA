@@ -5,13 +5,19 @@ public:
         int ans = INT_MAX;
 
         for (int len = l; len <= r; len++) {
-            
-            for (int i = 0; i + len <= n; i++) {
-                int sum = 0;
+            int sum = 0;
 
-                for (int j = i; j < i + len; j++) {
-                    sum += nums[j];
-                }
+            for (int i = 0; i < len; i++) {
+                sum += nums[i];
+            }
+
+            if (sum > 0) {
+                ans = min(ans, sum);
+            }
+
+            for (int i = len; i < n; i++) {
+                sum += nums[i];
+                sum -= nums[i - len];
 
                 if (sum > 0) {
                     ans = min(ans, sum);
