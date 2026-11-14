@@ -10,6 +10,7 @@
 | [0739-daily-temperatures](https://github.com/pradeepguptha/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pradeepguptha/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pradeepguptha/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3693-climbing-stairs-ii](https://github.com/pradeepguptha/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/pradeepguptha/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/pradeepguptha/DSA/tree/master/0198-house-robber) |
+| [3693-climbing-stairs-ii](https://github.com/pradeepguptha/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
