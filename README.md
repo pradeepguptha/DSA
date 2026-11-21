@@ -27,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pradeepguptha/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pradeepguptha/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/pradeepguptha/DSA/tree/master/0496-next-greater-element-i) |
 ## Tree
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pradeepguptha/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/pradeepguptha/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -115,4 +117,12 @@
 | ------- |
 | [0143-reorder-list](https://github.com/pradeepguptha/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/pradeepguptha/DSA/tree/master/0206-reverse-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pradeepguptha/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pradeepguptha/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
