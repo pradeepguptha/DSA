@@ -8,6 +8,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pradeepguptha/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/pradeepguptha/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/pradeepguptha/DSA/tree/master/0739-daily-temperatures) |
+| [1046-last-stone-weight](https://github.com/pradeepguptha/DSA/tree/master/1046-last-stone-weight) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pradeepguptha/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pradeepguptha/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pradeepguptha/DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/pradeepguptha/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/pradeepguptha/DSA/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
