@@ -14,6 +14,7 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/pradeepguptha/DSA/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/pradeepguptha/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/pradeepguptha/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pradeepguptha/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pradeepguptha/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0143-reorder-list](https://github.com/pradeepguptha/DSA/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -101,4 +103,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pradeepguptha/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/pradeepguptha/DSA/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/pradeepguptha/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
