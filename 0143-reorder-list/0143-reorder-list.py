@@ -9,25 +9,35 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: None Do not return anything, modify head in-place instead.
         """
-        
-        arr = []
-        temp = head
+        if not head or not head.next:
+            return
 
-        while temp:
-            arr.append(temp)
-            temp = temp.next
+        slow = head
+        fast = head
 
-        left = 0
-        right = len(arr) - 1
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
 
-        while left < right:
-            arr[left].next = arr[right]
-            left += 1
+        prev = None
+        curr = slow.next
 
-            if left == right:
-                break
+        slow.next = None 
+        while curr:
+            temp = curr.next
+            curr.next = prev
+            prev = curr
+            curr = temp
 
-            arr[right].next = arr[left]
-            right -= 1
+        first = head
+        second = prev
 
-        arr[left].next = None
+        while second:
+            temp1 = first.next
+            temp2 = second.next
+
+            first.next = second
+            second.next = temp1
+
+            first = temp1
+            second = temp2
